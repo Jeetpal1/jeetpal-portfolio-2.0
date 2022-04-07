@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Jeetpal Singh",
+    "occupation": "Junior Software Developer/CS Student/President/Tutor",
+    "description": "My primary goal is to follow my passion for Software Development while teaming up with people with similar mindsets to come up with products that put a significant impact on the future in Science and Technology. That's it!",
+    "image": "profilepic.jpg",
+    "bio": "Hey there! I am Jeetpal! I've been coding for over 7 years now, ever since I got exposed to the virtues of Computer Science. Right now, I am working as a Junior Developer at Strategic Systems Engineering Inc. At Strategic Systems Engineering, we have dedicated ourselves to helping communities of all sizes combat environmental issues. we cultivate and develop specialized solutions to help you make the sensible and feasible plays to get you ahead of the tough decisions. I am also the President of University of Winnipeg Applied Computer Science Student Association (UWACSSA). Moreover, I have a great passion to teach other ACS students, so I am also working as a Computer Science Tutor for Math & Science Tutoring center at the university. I love to mentor computer science students and like to stay connected with like-minded people.",
+    "contactmessage": "Reach me! I like to connect with Like-minded people🙂",
+    "email": "singhjeetpal001@gmail.com",
+    "phone": "+1 2048876797",
+    "address": {
+      "street": "301 Regent Ave West",
+      "city": "Winnipeg",
+      "state": "Manitoba",
+      "zip": "R2C 1R5"
+    },
+    "website": "https://www.linkedin.com/in/jeetpal-singh-8630a61aa/",
+    "resumedownload": "/resumeJeetpal.pdf",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCYR3mbTT9uyzsRGECEwKLZQ/featured",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100076170605893",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jeetpal-singh-8630a61aa/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jeet_pal01/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Jeetpal1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "The University of Winnipeg",
+        "degree": "Bachelor's Degree, Applied Computer Science",
+        "graduated": "January 2023",
+        "description": "Graduating with Student of Highest Distinction (Dean's Honor List). Also, recieced Academic Proficiency Scholarship and The Golden Key International Honor Society Membership. Activities and societies: President, Co-op Student, Tutor, Marker, Web developer. Studied:- MS Office; HTML, CSS, JavaScript, Node.js with Express; Advanced MySQL, PostgreSQL; Introduction to Information Systems; Core Java, Python, Data Structures and Algorithms, Assembly Language Programming (8086); Discrete Mathematics, Linear Algebra, Calculus; Intro to Machine Learning Algorithms, Data Analysis/Visualization, Information Security; System Requirements, Analysis, and Design; Writing Research Papers; To Conclude, I really Loved/enjoyed studying Computer Science. 😀"
+      }
+    ],
+    "work": [
+      {
+        "company": "Strategic Systems Engineering Inc",
+        "title": "Junior Developer",
+        "years": "May 2022 - Present",
+        "description": "At Strategic, our goal is to address the important environmental, water resource and bio-energy questions, especially in the face of climate change. When you ask `how can I make my juristiction more economically sustainable` or `ways to de-risk our assets from natrual disasters`, we want to step up to the plate to inform and position you to tackle your challenges."
+      },
+      {
+        "company": "University of Winnipeg Applied Computer Science Student Association",
+        "title": "President",
+        "years": "May 2021 - Present",
+        "description": "Being part of the leadership team at UWACSSA, we aim to connect ACS students by organizing the various game, movie, educational, entertainment events. It is a community, where everyone respects and helps each other. And we execute various ideas to make that happen."
+      },
+      {
+        "company": "The University of Winnipeg",
+        "title": "Computer Science Tutor",
+        "years": "Oct 2021 - Present",
+        "description": "Working for Math & Science Tutoring center at the University of Winnipeg. I give tutoring sessions to 1st/2nd year computer science students, to help them understand the academic content."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development (HTML/CSS/JavaScript)",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL/SQL/NoSQL",
+        "level": "95%"
+      },
+      {
+        "name": "MongoDB,FireBase",
+        "level": "75%"
+      },
+      {
+        "name": "Git/GitHub/Trello/Jira",
+        "level": "80%"
+      },
+      {
+        "name": "Data Analysis (NumPy, Sci-Kit learns, Seaborn, Matplotlib)",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Scientific Calculator",
+        "category": "",
+        "image": "scientificCalculator.png",
+        "url": "https://github.com/Jeetpal1/ScientificCalculator"
+      },
+      {
+        "title": "Company's Entry Management System",
+        "category": "",
+        "image": "ems.png",
+        "url": "https://github.com/Jeetpal1/Entries-Management-System"
+      },
+      {
+        "title": "Jeetpal's Todolist",
+        "category": "",
+        "image": "todo.png",
+        "url": "https://github.com/Jeetpal1/todos-list"
+      },
+      {
+        "title": "Portfolio Website Template",
+        "category": "",
+        "image": "portfolio-template.jpg",
+        "url": "https://github.com/Jeetpal1/jeetpal-portfolio-website"
+      }
+    ]
+  }
+}
