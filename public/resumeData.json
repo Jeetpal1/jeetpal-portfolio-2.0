@@ -62,6 +62,12 @@
         "description": "At Strategic, our goal is to address the important environmental, water resource and bio-energy questions, especially in the face of climate change. When you ask `how can I make my juristiction more economically sustainable` or `ways to de-risk our assets from natrual disasters`, we want to step up to the plate to inform and position you to tackle your challenges."
       },
       {
+        "company": "The University of Winnipeg",
+        "title": "Research Assistant",
+        "years": "May 2022 - Sept 2022",
+        "description": "Working under the supervision of Prof. Adedayo on the research topic 'Techniques for anomaly detection in IoT'."
+      },
+      {
         "company": "University of Winnipeg Applied Computer Science Student Association",
         "title": "President",
         "years": "May 2021 - Present",
@@ -144,6 +150,30 @@
         "category": "",
         "image": "portfolio-template.jpg",
         "url": "https://github.com/Jeetpal1/jeetpal-singh"
+      },
+      {
+        "title": "Airbnb clone",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://github.com/Jeetpal1/airbnb-clone"
+      },
+      {
+        "title": "Travel Journal",
+        "category": "",
+        "image": "travel.png",
+        "url": "https://github.com/Jeetpal1/jeetpal-travel-journal"
+      },
+      {
+        "title": "Meme Generator",
+        "category": "",
+        "image": "meme.png",
+        "url": "https://github.com/Jeetpal1/jeetpals-meme-generator"
+      },
+      {
+        "title": "Digital Business Card",
+        "category": "",
+        "image": "card.png",
+        "url": "https://github.com/Jeetpal1/digital-business-card"
       }
     ]
   }

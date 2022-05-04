@@ -532,6 +532,9 @@ ul#nav li.current a {
   margin-top: -15px;
 }
 .portfolio-item .item-wrap img {
+  width: 220px;
+  height: 130px;
+  border-radius: 5px;
   vertical-align: bottom;
 }
 .portfolio-item .portfolio-item-meta {
