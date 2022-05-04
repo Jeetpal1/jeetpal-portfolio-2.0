@@ -1,4 +1,4 @@
-Clink here to see the Final Website: https://jeetpal-singh.firebaseapp.com/ 
+Clink here to see the Final Website: https://jeetpal-singh.web.app/  
 
 ## 1. Make sure you have NODE installed!
 
