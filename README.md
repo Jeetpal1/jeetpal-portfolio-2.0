@@ -1,19 +1,7 @@
-Clink here to see the Final Website: https://jeetpal-singh.web.app/  
+<h3>Look at the Final Deployed Website:  https://jeetpal-singh.web.app/  </h3> 
+Click the above link to the website
 
-## 1. Make sure you have NODE installed!
 
-Firstly, you will need to download the latest version of Node by <a href="https://nodejs.org/en/download/">CLICKING HERE</a>
-
-## 2. Clone the repo!
-
-Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
-
-## 3. Install Dependancies
-
-Next, you need to install all the dependancies using:
-
-`npm install`
-
-Once this is done, you can start the app with:
-
-`npm start`
+![image](https://user-images.githubusercontent.com/70360391/183548005-6cc4dea4-84c2-4cfa-95b7-eade2b54c4cf.png)
+.
+![image](https://user-images.githubusercontent.com/70360391/183548042-217bf32a-1a27-43e1-b5b7-e4424c69934c.png)
